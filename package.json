@@ -1,0 +1,19 @@
+{
+  "name": "gitworkshop",
+  "version": "1.0.0",
+  "description": "Use and abuse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herrklaseen/gitworkshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herrklaseen/gitworkshop/issues"
+  },
+  "homepage": "https://github.com/herrklaseen/gitworkshop#readme"
+}
