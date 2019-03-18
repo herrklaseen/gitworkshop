@@ -1,4 +1,4 @@
-module.exports = class HeyManhattan {
+module.exports = class HeyNewYork {
     constructor() {
         this.quotes = [
             'New York, New York is where we live and we’re thorough,',
@@ -10,12 +10,12 @@ module.exports = class HeyManhattan {
             'Fort Greene, Bed-Stuy, Flatbush, Brownsville,',
             'Crown Heights and East New York will be down till,',
             'Medina takes respect for the styles we bring,',
-            '‘Cause in Brooklyn we be into our own thing.',
+            '‘Cause in Brooklyn we be into our own thing.'
         ];
     }
 
     speak() {
-        return 'Hey Manhattan!';
+        return 'What’s poppin’, kid?';
     }
 
     translate(str) {
