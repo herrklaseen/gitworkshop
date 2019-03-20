@@ -15,7 +15,7 @@ module.exports = class HeyNewYork {
     }
 
     speak() {
-        /// return 'What’s poppin’, kid?';
+        return 'What’s poppin’, kid?';
     }
 
     translate(str) {
