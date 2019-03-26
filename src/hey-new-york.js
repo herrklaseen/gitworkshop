@@ -27,6 +27,7 @@ module.exports = class HeyNewYork {
     }
 
     hitMeUp(number) {
+        // Hello stuff
         if (!number || isNaN(number)) {
             return this.quotes.join('\n');
         }
